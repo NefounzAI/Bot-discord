@@ -1,5 +1,5 @@
 {
-  "token": "bot token",
+  "token": "MTAyMzUyMjM0MTA1NTExNTI2NA.GT8lYp.VYrGU-BVM5TLe-gi_D9WxR7yQplUZQVCnGjRQI",
   "prefix": "/",
   "serverAddress": "play.hexnitymc.xyz",
   "serverPort": "20397",
@@ -9,7 +9,7 @@
   "debugMode": true,
   "debugLvl": 1,
   "pinUpdate": true,
-  "pinId": "pin id kalen<-terserah",
-  "pinGuildId": "",
-  "pinChanId": ""
+  "pinId": "",
+  "pinGuildId": "1058676416570462269",
+  "pinChanId": "1058686330311299082"
 }
